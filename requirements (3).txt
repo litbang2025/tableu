@@ -1,10 +1,8 @@
 streamlit
 pandas
 numpy
+plotly
 seaborn
 matplotlib
 scipy
-xlsxwriter
-scikit-posthocs
-plotly
-
+Pillow
