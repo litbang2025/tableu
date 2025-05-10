@@ -18,7 +18,6 @@ st.set_page_config(
 # Menampilkan logo di sidebar dari URL
 logo_url = "https://www.gen3eng.com/images/Links_spin.gif"  # Ganti dengan URL gambar yang sesuai
 st.sidebar.image(logo_url, width=150)  # Anda dapat menyesuaikan lebar gambar sesuai kebutuhan
-)
 
 
 # Desain Header
